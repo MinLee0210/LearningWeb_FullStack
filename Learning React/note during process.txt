@@ -1,0 +1,13 @@
+Note:
+14/6/2022
+    .Ignore all eslint warnings:
+    https://eslint.org/docs/2.13.1/user-guide/configuring#:~:text=Disabling%20Rules%20with%20Inline%20Comments&text=To%20disable%20rule%20warnings%20in,*%2F%20alert('foo')%3B
+    .ReactDOM.render is no longer support in React18
+    https://bobbyhadz.com/blog/react-reacdom-render-no-longer-supported-in-react-18
+    .
+    https://vi.reactjs.org/
+
+    Cuốn sách mà tôi tham khảo sử dụng React 16., còn trên máy tôi sử dụng React 18. 
+    Điều khác biệt đầu tiên giữa 2 version mà tôi được biết là ở React18 không còn hỗ trợ ReactDom.render nữa. 
+    Cái logic mà tôi hiểu ở đây là thay vì phải sử dụng 1 công cụ trong 1 thư viện để trích xuất (render) 1 component ra rồi 
+    gắn lên 1 trang chính (ở đây tôi gọi là root), thì ở phiên bản mới để cho bản thân thằng root sẽ render thằng component mà nó cần.     
