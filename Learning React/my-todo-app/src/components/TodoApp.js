@@ -4,6 +4,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 
 import Header from "./layout/Header";
+import Footer from "../store/containers/Footer";
 import Todos from "./Todos";
 import AddTodo from "./AddTodo";
 
@@ -149,6 +150,7 @@ function TodoApp() {
                     handleChange={handleCheckboxChange}
                     deleteTodo={deleteTodo}
             />
+            <Footer/>
         </div>
     ); 
         

@@ -26,3 +26,5 @@ Note:
     >Use in 2 things: State and Lifecycle method
 
     >Initial State by Hook: useSate()
+    .Redux
+    https://viblo.asia/p/redux-cho-nguoi-moi-bat-dau-part-1-introduction-ZjleaBBZkqJ
