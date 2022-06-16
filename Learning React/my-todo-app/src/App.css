@@ -40,6 +40,15 @@ body {
   margin-left: 15px;
 }
 
+.todo-item span{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 80%;
+  height: 18px;
+  display: inline-block;
+}
+
 .completed{
   font-style: italic;
   color: #c5e2d2;

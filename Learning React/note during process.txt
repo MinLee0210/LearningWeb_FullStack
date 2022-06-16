@@ -7,7 +7,22 @@ Note:
     .
     https://vi.reactjs.org/
 
-    Cuốn sách mà tôi tham khảo sử dụng React 16., còn trên máy tôi sử dụng React 18. 
+    > Props and State.
+    > Cuốn sách mà tôi tham khảo sử dụng React 16., còn trên máy tôi sử dụng React 18. 
     Điều khác biệt đầu tiên giữa 2 version mà tôi được biết là ở React18 không còn hỗ trợ ReactDom.render nữa. 
-    Cái logic mà tôi hiểu ở đây là thay vì phải sử dụng 1 công cụ trong 1 thư viện để trích xuất (render) 1 component ra rồi 
-    gắn lên 1 trang chính (ở đây tôi gọi là root), thì ở phiên bản mới để cho bản thân thằng root sẽ render thằng component mà nó cần.     
+    Cái logic mà tôi hiểu ở đây là thay vì phải sử dụng 1 công cụ trong 1 thư viện để trích xuất (render) 1 component ra rồi gắn lên 1 trang chính (ở đây tôi gọi là root), thì ở phiên bản mới để cho bản thân thằng root sẽ render thằng component mà nó cần.     
+
+
+15/6/2022
+    .Library for fetch API: axios.
+
+16/6/2022
+    .
+    https://viblo.asia/p/su-dung-map-filter-va-reduce-trong-javascript-924lJA9bZPM
+
+    
+    .HTTPS method: GET, POST, DELETE. Use "https://jsonplaceholder.typicode.com" as a temporary memory holder.
+    .HOOKS:
+    >Use in 2 things: State and Lifecycle method
+
+    >Initial State by Hook: useSate()
